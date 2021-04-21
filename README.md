@@ -12,7 +12,7 @@ Identify ineffective operators based on:
 
 #### Table of contents:
 
-* [Open the data files and read the general information](#chapter1)
+* Open the data files and read the general information
    
 * [Prepare the data for analysis](#chapter2)
 
