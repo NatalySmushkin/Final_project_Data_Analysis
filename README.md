@@ -14,7 +14,7 @@ Identify ineffective operators based on:
 
 * Open the data files and read the general information
    
-* [Prepare the data for analysis](#chapter2)
+* Prepare the data for analysis
 
     * Check for missing values
     * Replace\delete missing values
@@ -23,22 +23,22 @@ Identify ineffective operators based on:
     * Check type correspondence
     * Convert types if needed
 
-* [EDA](#chapter3)
+* EDA
 
     * Study distribution of data
     * Find outliers 
 
-* [Identifying ineffective operators](#chapter4)
+* Identifying ineffective operators
 
     * Determine the threshold after which the number of missed calls will be considered too high
     * Determine the threshold after which the waiting time will be considered too long
     * Determine the threshold after which the number of outgoing calls will be considered too small
 
-* [Test hypothesis](#chapter5)
+* Test hypothesis
     
     * If there is statistically significant difference in average waiting time between effective and ineffective operators
 
-* [Conclusions](#chapter6)
+* Conclusions
 
 Link to presentation: https://docs.google.com/presentation/d/1NYwhVUyjQnjgwyRLGPr3tmdhDxrAaYl5qbqKdSwlGQM/edit?usp=sharing
 
